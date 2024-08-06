@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                script {
+                    
+                    git branch: 'main', url: 'https://github.com/tanktoppandey/strapii-jenkins-deployment.git'
+                }
+                
+                sh 'docker-compose build'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                // Start the application using Docker Compose
+                sh 'docker-compose up -d'
+            }
+        }
+    }
+}
