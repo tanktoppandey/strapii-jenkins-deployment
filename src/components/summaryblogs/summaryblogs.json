@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_summaryblogs_summaryblogs",
+  "info": {
+    "displayName": "SUMMARYBLOGS",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "info": {
+      "type": "text"
+    }
+  }
+}

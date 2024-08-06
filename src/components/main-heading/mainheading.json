@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_main_heading_mainheadings",
+  "info": {
+    "displayName": "MAINHEADING",
+    "icon": "arrowUp",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    }
+  }
+}

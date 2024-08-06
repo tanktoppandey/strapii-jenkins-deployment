@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_custom_image_customimages",
+  "info": {
+    "displayName": "CUSTOMIMAGE",
+    "icon": "landscape",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "alt": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_consult_us_consultuses",
+  "info": {
+    "displayName": "CONSULTUS"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    }
+  }
+}

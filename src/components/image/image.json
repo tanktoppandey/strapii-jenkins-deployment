@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_image_images",
+  "info": {
+    "displayName": "IMAGE",
+    "icon": "landscape",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "alt": {
+      "type": "string"
+    },
+    "src": {
+      "type": "string"
+    }
+  }
+}

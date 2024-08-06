@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_sub_headings_subheadings",
+  "info": {
+    "displayName": "SUBHEADINGS",
+    "icon": "arrowDown",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    }
+  }
+}

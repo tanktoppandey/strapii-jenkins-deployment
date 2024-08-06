@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_blog_meta_data_blog_meta_data",
+  "info": {
+    "displayName": "BlogMetaData",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "keywords": {
+      "type": "string"
+    },
+    "ogtitle": {
+      "type": "string"
+    },
+    "ogurl": {
+      "type": "string"
+    },
+    "ogimage": {
+      "type": "string"
+    },
+    "ogdescription": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "authorurl": {
+      "type": "string"
+    }
+  }
+}

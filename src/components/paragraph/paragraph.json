@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_paragraph_paragraphs",
+  "info": {
+    "displayName": "PARAGRAPH",
+    "icon": "paperPlane",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "text"
+    }
+  }
+}

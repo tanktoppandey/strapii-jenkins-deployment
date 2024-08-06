@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_h3_headings_h3_headings",
+  "info": {
+    "displayName": "H3HEADINGS",
+    "icon": "quote",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    }
+  }
+}
